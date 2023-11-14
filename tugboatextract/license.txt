@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tugboat
+* source:	https://sketchfab.com/3d-models/tugboat-a8a0c64472e041db91ab90b84e372f29
+* author:	stek (https://sketchfab.com/stek)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tugboat" (https://sketchfab.com/3d-models/tugboat-a8a0c64472e041db91ab90b84e372f29) by stek (https://sketchfab.com/stek) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
